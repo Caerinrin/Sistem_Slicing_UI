@@ -5,7 +5,7 @@
   <!-- About Us & Our Mission Section -->
   <div class="bg-white py-16 px-16">
     <!-- Garis atas dengan warna kuning dan biru -->
-    <div class="relative mb-5"> <!-- Added margin-bottom for spacing -->
+    <div class="relative mb-5"> 
       <div class="absolute top-0 right-1/4 w-3/5 h-5 bg-yellow-400 z-10"></div> <!-- Yellow line on top -->
       <div class="absolute top-0 right-0 w-1/4 h-5 bg-blue-500 z-0"></div> <!-- Blue line behind -->
     </div>
