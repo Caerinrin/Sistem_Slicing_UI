@@ -23,7 +23,7 @@
           magna aliqua.
         </p>
         <router-link to="/about-us">
-          <a href="#" class="text-yellow-500 hover:text-x-blue font-semibold mt-4 inline-block">Read More &gt;</a>
+          <a class="text-yellow-500 hover:text-x-blue font-semibold mt-4 inline-block">Read More &gt;</a>
         </router-link>
       </div>
 
