@@ -23,7 +23,8 @@
           <!-- Testimonial Text -->
           <div class="text-lg">
             <p class="text-2xl font-bold">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+              dolore magna aliqua.
             </p>
           </div>
         </div>
@@ -41,8 +42,10 @@
 
           <!-- Navigation Buttons -->
           <div class="flex space-x-2">
-            <button class="bg-black text-white px-4 py-2 text-lg hover:text-black text-bold hover:bg-white transition duration-100 rounded-full">←</button>
-            <button class="bg-black text-white px-4 py-2 text-lg hover:text-black text-bold hover:bg-white transition duration-100 rounded-full">→</button>
+            <button
+              class="bg-black text-white px-4 py-2 text-lg hover:text-black text-bold hover:bg-white transition duration-100 rounded-full">←</button>
+            <button
+              class="bg-black text-white px-4 py-2 text-lg hover:text-black text-bold hover:bg-white transition duration-100 rounded-full">→</button>
           </div>
         </div>
       </div>
